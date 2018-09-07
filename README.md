@@ -5,4 +5,3 @@
 
 #### Textswap is an application for college students to exchange textbooks.
 
-[Textswapr](http://textswapr.com)
